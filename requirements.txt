@@ -1,0 +1,30 @@
+# Core Python tools
+numpy
+scipy
+pandas
+matplotlib
+opencv-python
+pillow
+
+# Deep learning & ONNX
+torch
+torchvision
+onnx
+onnxruntime
+
+# YOLO / Object detection
+ultralytics
+roboflow
+
+# Utilities & helpers
+requests
+python-dotenv
+PyYAML
+tqdm
+coloredlogs
+
+# Optional visualization / numerical tools
+sympy
+networkx
+Jinja2
+packaging
