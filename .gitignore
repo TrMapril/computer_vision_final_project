@@ -27,4 +27,5 @@ yolov8n.pt
 Thumbs.db
 
 # Env & secrets
+
 .env
