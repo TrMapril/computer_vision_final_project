@@ -10,7 +10,6 @@ env/
 
 # Dataset & model outputs
 data/
-runs/
 videos/
 *.pt
 *.onnx
